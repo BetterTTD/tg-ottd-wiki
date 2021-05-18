@@ -1,10 +1,10 @@
 #TG_OpenTTD Wiki
 
-* Glossary
+* __Glossary__
 
-* Concept & Ideology
+* __Concept & Ideology__
 
-* Getting started
+* __Getting started__
    - quickstart
    - obtaining OpenTTD
    - tg_ottd tutorial
@@ -12,12 +12,12 @@
    - building guidelines
    - communication
 
-* Basic Building Concepts
+* __Basic Building Concepts__
 
-* Advanced Building Concepts
+* __Advanced Building Concepts__
 
-* Your Participation
+* __Your Participation__
 
-* Tech Info
+* __Tech Info__
 
-* Community Info
+* __Community Info__
