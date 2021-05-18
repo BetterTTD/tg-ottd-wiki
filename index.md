@@ -33,7 +33,7 @@
 
    - _game start_
    - _basic networking_
-   - _Pre-signaks_
+   - _Pre-signals_
    - _curves_
    - _terraforming_
    - _orders_
@@ -62,7 +62,8 @@
 
 * __Tech Info__
 
-
+   - _tg-ottd servers_
+   - _discord & telegram servers_
 
 ***
 
